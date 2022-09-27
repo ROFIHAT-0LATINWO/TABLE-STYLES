@@ -1,0 +1,27 @@
+body{
+    background-color: chocolate;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+    font-style: normal;
+    font-variant: small-caps;
+    font-weight: lighter;
+    font-size: small;
+    margin: 100px; padding: 100px;
+    
+
+}
+h1{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif
+    text-align: center;
+    text-decoration: underline;
+    }
+
+th{
+border: 2px solid black;
+border-collapse: collapse;
+}
+
+td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
